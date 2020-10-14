@@ -1,1 +1,1 @@
-![](2020_42_dino.gif)
+![](dino_tidytuesday.gif)
