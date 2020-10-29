@@ -2,4 +2,4 @@
 ![](dino_tidytuesday.gif)
 
 ## Static Chart
-![](dino_tidytuesday.png)
+![](2020_42_dino.PNG)
