@@ -1,5 +1,5 @@
-## Animated Chart
+## Animated Chart:
 ![](dino_tidytuesday.gif)
 
-## Static Chart
+## Static Chart:
 ![](2020_42_dino.PNG)
