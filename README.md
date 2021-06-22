@@ -7,3 +7,7 @@
 ## 2020-42
 
 ![](2020_42/dino_tidytuesday.gif)
+
+## 2021-26
+
+![](2021_26/parkspending_tidytuesday.gif)
