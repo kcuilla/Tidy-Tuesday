@@ -1,4 +1,4 @@
-<b>My contributions to TidyTuesday, a weekly social data project in R</b>
+<b>My contributions to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a weekly social data project in R</b>
 
 ## 2020-41
 
