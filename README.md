@@ -11,3 +11,7 @@
 ## 2021-26
 
 ![](2021_26/parkspending_tidytuesday.gif)
+
+## 2022-02
+
+![](2022-02/bubble_grid.jpeg)
